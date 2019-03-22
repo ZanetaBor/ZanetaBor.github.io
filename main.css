@@ -1,0 +1,189 @@
+body
+{
+	background-color: #474d52;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+header
+{
+	background-color:#0b3954;
+}
+
+.navbar-brand img 
+{
+	height: 100px;	
+}
+
+
+.navbar-nav li
+{
+	
+	padding-left: 20px;
+	padding-right: 20px;
+	border-right: 1px dashed #efefef;
+}
+
+.navbar-nav li:first-child
+{
+	border-left: 1px dashed #efefef;
+}
+
+.navbar a:hover
+{
+	color: #0a2b42;
+	cursor: pointer;
+}
+
+h1
+{
+	font-size: 44px;
+	font-weight: 400;
+	color: #39a5f1;
+
+}
+.news
+{
+	background-color: #222930;
+}
+
+h2
+{
+	font-size: 20px;
+	font-weight: 400;
+	color: #39a5f1;
+}
+
+.statue
+{	
+	font-size:10px;
+}
+
+.footer-copyright a
+{
+	color: #efefef;
+	border-right: 1px dashed #efefef;
+	padding: 10px;
+}
+
+.bluebuttonsmall
+{
+	background-color: #1c74b2;
+	color: #efefef;
+	font-size: 12px;
+	text-decoration: none;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.bluebuttonsmall:hover
+{
+	background-color: #196499;
+}
+
+.bluebutton
+{
+	background-color: #1c74b2;
+	color: #efefef;
+	font-size: 19px;
+	text-decoration: none;
+	border-radius: 5px;
+	padding:20px;
+	margin:20px;
+}
+
+.bluebutton:hover
+{
+	background-color: #196499;
+}
+
+.socials {
+ margin-top:50px;
+}
+.socialnavs
+{
+	background-color: black;
+}
+
+#mail
+{
+	display:flex;
+	width: 150px;
+	height: 100px;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+#mail:hover
+{
+	background-color: #d95333;
+}
+
+#fb
+{
+	display:flex;
+	width: 150px;
+	height: 100px;
+	justify-content: center;
+	align-items: center;
+}
+
+#fb:hover
+{
+	background-color: #4668b3;
+}
+
+#yt
+{
+	display:flex;
+	width: 150px;
+	height: 100px;
+	justify-content: center;
+	align-items: center;
+}
+
+#yt:hover
+{
+	background-color: #d94348;
+}
+
+#tw
+{
+	display:flex;
+	width: 150px;
+	height: 100px;
+	justify-content: center;
+	align-items: center;
+}
+
+#tw:hover
+{
+	background-color: #3095d3;
+}
+
+.info
+{
+	text-decoration:none;
+	color: #efefef;
+}
+.info a:visited
+{
+	color:#efefef;
+}
+
+.info a:unvisited
+{
+	color:#efefef;
+}
+
+.info a:hover
+{
+	color:#efefef;
+}
+
+.info a:active
+{
+	color:#efefef;
+}
